@@ -11,6 +11,7 @@
 import java.util.*;
 
 class Solution {
+  @SuppressWarnings("unchecked")
   public boolean canFinish(int numCourses, int[][] prerequisites) {
     int n = numCourses;
     List<Integer> adj[] = new List[n];
