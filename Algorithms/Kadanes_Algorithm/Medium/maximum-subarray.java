@@ -8,7 +8,7 @@
 // Solution 2
 // follow same procedure as Solution 1, but declare new variable start, end, and s and assign all with 0. start and end will be final positions of the max subarray, s will be the temporary start index.
 // int loop (0 -> nums.length - 1), sum = sum + nums[i], after that if (sum > max) then update max = sum, start = s and e = i.
-// and if(sum < 0), then update sum = 0 and s = i + 1. finally return {start, end} or the whole subarray depending on the problem
+// and if(sum < 0), then update sum = 0 and s = i + 1. finally return {start, end} or the whole subarray depending on the question asked
 
 package Algorithms.Kadanes_Algorithm.Medium;
 
