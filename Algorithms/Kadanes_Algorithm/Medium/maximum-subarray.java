@@ -38,6 +38,7 @@ class Solution1 {
 class Solution2 {
   // Return or Print start and end position of subarray, or the whole subarray
   // itself.
+  @SuppressWarnings("unused")
   public int maxSubArray(int[] nums) {
     int n = nums.length;
     int max = Integer.MIN_VALUE, sum = 0;
