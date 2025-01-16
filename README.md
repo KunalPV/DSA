@@ -12,9 +12,16 @@ This repository contains solutions to various Data Structures and Algorithms pro
   - Queues
   - Trees
   - Graphs
+  - Heap
+  - Trie
 - Algorithms
   - Sorting
   - Searching
+  - Bit Manipulation
+  - Math
+  - Divide And Conquer
+  - Backtracking
+  - Kadane's Algorithm
 
 ## How to Run
 
