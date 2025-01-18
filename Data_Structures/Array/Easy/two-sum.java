@@ -1,4 +1,3 @@
-
 // Array, Hashing, HashMap, HashSet, Two-Pointers
 
 // Solution1: Output: { num[i], num[j] } or { i, j } / { -1, -1 }
@@ -14,6 +13,8 @@
 // if sum == target, return true
 // if sum < target, left++;
 // if sum > target, right--;
+
+package Data_Structures.Array.Easy;
 
 import java.util.*;
 
