@@ -1,5 +1,5 @@
 
-// String
+// String, Counter
 
 // create count, currCount and result as 0, 0 and s.charAt(0), 
 // loop 0 till n, check if i < n - 1 and s[i] == s[i + 1], if yes then increment currCount,
