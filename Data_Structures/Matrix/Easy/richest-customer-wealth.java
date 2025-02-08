@@ -9,7 +9,7 @@
 
 package Data_Structures.Matrix.Easy;
 
-// Optimal Solution: We assume rows == cols, if not then use accounts[i].length inside i loop instead of just cols
+// Optimal Solution: We assume rows == cols, if not then use (j < accounts[i].length) inside i loop instead of just (j < cols)
 // Time: O(m * n), m [rows] * n [cols], m = accounts.length and n = accounts[0].length
 // Space: O(1), max + tempMax, constant space
 class Solution {
