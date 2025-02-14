@@ -1,4 +1,12 @@
 
+// Linked List, Two Pointers
+
+// create a Node prev = 0, set prev.next = head,
+// create 2 pointer Node slow and fast as prev and head, 
+// loop till fast and fast.next NOT equals null, set slow to slow.next and fast to fast.next.next,
+// set slow.next to slow.next.next, [set (mid - 1) node to (mid + 1) node = deleting mid]
+// return head;
+
 class ListNode {
   int val;
   ListNode next;
