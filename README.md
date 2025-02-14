@@ -7,6 +7,7 @@ This repository contains solutions to various Data Structures and Algorithms pro
 - Data Structures
   - Arrays
   - Strings
+  - Matrix
   - Linked Lists
   - Stacks
   - Queues
@@ -18,6 +19,7 @@ This repository contains solutions to various Data Structures and Algorithms pro
   - Sorting
   - Searching
   - Bit Manipulation
+  - Dynamic Programming
   - Math
   - Divide And Conquer
   - Backtracking
