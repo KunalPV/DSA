@@ -19,6 +19,7 @@ class TreeNode {
     }
 }
 
+// Optimal Solution
 class Solution {
 
     public TreeNode deleteNode(TreeNode root, int key) {
