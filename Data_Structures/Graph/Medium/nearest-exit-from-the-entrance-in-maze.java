@@ -12,7 +12,7 @@
 // create int[] current = queue.poll(),
 // loop int[] direction through directions,
 // set x = current[0] + direction[0] and y = current[1] + direction[1],
-// check if 0 < x <= rows or 0 < y <= cols or maze[x][y] == '+', if yes continue;
+// check if 0 > x >= rows or 0 > y >= cols or maze[x][y] == '+', if yes continue;
 // check if (x == 0 or rows - 1) or (y == 0 or cols - 1), if yes return step;
 // set maze[x][y] = '+',
 // queue.offer(new int[] {x, y}),
