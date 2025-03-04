@@ -10,7 +10,7 @@
 // return -1;
 //
 // Expected Solution: Binary Search
-// Time: O(logn), for each iteration the search range is halved, n = int n
+// Time: O(logn), for each iteration the search range is halved, n = given int n
 // Space: O(1), O(1 + 1 + 1 + 1) [first + last + mid + res], constant time
 class Solution {
 
