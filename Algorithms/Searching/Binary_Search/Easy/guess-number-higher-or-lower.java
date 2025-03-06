@@ -1,6 +1,14 @@
 
 // Searching, Binary Search
 //
+//////////
+// declare int pick;
+//
+// ** int guess(int num) // given function
+// check if(num == pick), if yes return 0;
+// return (num < pick) ? 1 : -1;
+//////////
+//
 // create first and last as 1 and n,
 // loop till first <= last,
 // create mid as first + (last - first) / 2 and res as guess(n),
