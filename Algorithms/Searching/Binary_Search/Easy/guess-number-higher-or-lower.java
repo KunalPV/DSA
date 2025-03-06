@@ -1,5 +1,5 @@
 
-// Binary Search, 
+// Searching, Binary Search
 //
 // create first and last as 1 and n,
 // loop till first <= last,
